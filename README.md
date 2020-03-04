@@ -1,7 +1,7 @@
-# Skeletonization extraction of Meloidogyne image 
+# Skeletonization extraction of Meloidogyne images
 
 Steps:
-- Meloidogyne images
+- Obtain Meloidogyne images
 - Grayscale
 - Gaussian Blur
 - Canny Edge Detection/ Thresholding
